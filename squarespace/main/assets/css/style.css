@@ -1579,7 +1579,7 @@ ul.tabs_list li a.active {
 ========================================================================== */
 .counter_sec {
     position: relative;
-    background-image: url('https://godz1919.github.io/squarespace/main/assets/images/template-one/about-img.jpg');
+    background-image: url('https://godz1919.github.io/squarespace/main/assets/images/bg-one.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -1600,7 +1600,7 @@ ul.tabs_list li a.active {
     left: 0;
     width: 100%;
     height: 100%;
-    background: #8ab0bce0;
+    background: rgba(65, 186, 235, 0.95);
 }
 
 .counter sub {
